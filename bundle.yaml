@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "3"
+version: "4"
 id: "casc-mpolak-202202-ops-controller"
 description: "CloudBees CI configuration bundle for the casc-mpolak-202202 ops-controller Controller"
 availabilityPattern: "cloudbees-ci-casc-workshop/casc-mpolak-202202/ops-controller"
