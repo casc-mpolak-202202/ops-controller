@@ -24,4 +24,4 @@ unclassified:
               repoOwner: "${GITHUB_ORGANIZATION}"
               repository: "pipeline-library"
   headerLabel:
-    text: "${GITHUB_APP}-bundle-v4"
+    text: "${GITHUB_APP}-bundle-v4 "
